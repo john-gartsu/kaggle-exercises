@@ -1,2 +1,2 @@
 # kaggle-exercises
-kaggle exercises for ML prep https://www.kaggle.com/
+kaggle exercises for Data Sci prep https://www.kaggle.com/
